@@ -46,6 +46,7 @@ Expected Output: [
 Reason for doing this:  
 - Demonstrate I am proficient using SpringBoot  
 - Show I know how to spin up a basic service and expose an endpoint  
+- OOP approach
   
 Other notes:  
 Error handling: This endpoint will throw a 400 error if you enter an empty string. This was done with javax validation annotaions  
