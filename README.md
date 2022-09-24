@@ -49,3 +49,4 @@ Reason for doing this:
   
 Other notes:  
 Error handling: This endpoint will throw a 400 error if you enter an empty string. This was done with javax validation annotaions  
+I added Swagger UI for testing (to make things easy for you) and to show I know how to use the tool
